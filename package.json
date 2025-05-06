@@ -1,10 +1,10 @@
 {
-  "name": "create-rest-api",
+  "name": "create-fast-api",
   "version": "1.0.0",
   "description": "CLI tool to create Node.js REST APIs",
   "main": "dist/index.js",
   "bin": {
-    "create-rest-api": "dist/index.js"
+    "create-fast-api": "dist/index.js"
   },
   "scripts": {
     "dev": "ts-node src/index.ts",
